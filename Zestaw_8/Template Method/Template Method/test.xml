@@ -1,0 +1,7 @@
+<?xml version='1.0'?>
+<foo>
+	<bar>
+		<qux>Some very interesting data</qux>
+	</bar>
+	<verylongname>Even more data</verylongname>
+</foo>
